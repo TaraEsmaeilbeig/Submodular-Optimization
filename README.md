@@ -1,5 +1,4 @@
-# Submodular Optimization for positioning of Reconfigurable Intelligent Surfaces (RIS)
-Submodular Optimization for Placement of Intelligent Reflecting Surfaces in  sensing systems
+# Submodular Optimization for positioning of Reconfigurable Intelligent Surfaces (RIS).
 The methods in for  the paper https://scholar.google.com/citations?view_op=view_citation&hl=en&user=18qBxBkAAAAJ&sortby=pubdate&citation_for_view=18qBxBkAAAAJ:hC7cP41nSMkC is implemented. If you use the code please cite our paper:
 
 @article{esmaeilbeig2023submodular,
