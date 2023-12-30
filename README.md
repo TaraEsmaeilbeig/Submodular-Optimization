@@ -7,5 +7,6 @@ The implementation of the RIS placement optimization methods in [paper](https://
   author={Esmaeilbeig, Zahra and Mishra, Kumar Vijay and Eamaz, Arian and Soltanalian, Mojtaba},
   journal={arXiv preprint arXiv:2310.14443},
   year={2023}
-}```
+}
+```
 
